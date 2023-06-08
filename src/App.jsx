@@ -10,67 +10,67 @@ const products = [
   },
   {
     id: 2,
-    name: 'Produto 1',
+    name: 'Produto 2',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 3,
-    name: 'Produto 1',
+    name: 'Produto 3',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 4,
-    name: 'Produto 1',
+    name: 'Produto 4',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 5,
-    name: 'Produto 1',
+    name: 'Produto 5',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 6,
-    name: 'Produto 1',
+    name: 'Produto 6',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 7,
-    name: 'Produto 1',
+    name: 'Produto 7',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 8,
-    name: 'Produto 1',
+    name: 'Produto 8',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 9,
-    name: 'Produto 1',
+    name: 'Produto 9',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 10,
-    name: 'Produto 1',
+    name: 'Produto 10',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 11,
-    name: 'Produto 1',
+    name: 'Produto 11',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   },
   {
     id: 12,
-    name: 'Produto 1',
+    name: 'Produto 12',
     price: '$10',
     image: 'https://via.placeholder.com/150'
   }
