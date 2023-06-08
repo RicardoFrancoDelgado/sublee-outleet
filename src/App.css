@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 .App {
   text-align: center;
   display: flex;
@@ -52,6 +54,7 @@ header {
 
 .product:hover {
   transform: scale(1.05);
+  border: 1px solid #04d691;
 }
 
 .product-image {
@@ -62,13 +65,15 @@ header {
 }
 
 .product-name {
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   margin-bottom: 5px;
 }
 
 .product-price {
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
-  color: #666;
+  color: #bcbcbc;
 }
 
 @media screen and (max-width: 520px), (max-height: 618px) {
