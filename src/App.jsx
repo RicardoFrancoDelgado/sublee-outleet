@@ -91,7 +91,9 @@ const App = () => {
               alt={product.name}
               className="product-image"
             />
-            <span className="product-name">{product.name}</span>
+            <a href="">
+              <span className="product-name">{product.name}</span>
+            </a>
             <span className="product-price">{product.price}</span>
           </div>
         ))}
