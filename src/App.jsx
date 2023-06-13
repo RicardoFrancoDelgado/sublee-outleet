@@ -91,7 +91,7 @@ const App = () => {
               alt={product.name}
               className="product-image"
             />
-            <a href="">
+            <a href="https://subleestore.lojavirtualnuvem.com.br/" target="_blank">
               <span className="product-name">{product.name}</span>
             </a>
             <span className="product-price">{product.price}</span>
