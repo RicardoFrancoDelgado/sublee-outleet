@@ -83,7 +83,7 @@ const App = () => {
         <a href="https://subleestore.lojavirtualnuvem.com.br/" target="_blank">
           <img src={logo} alt="Logo" className="logo" />
         </a>
-        <span className="App-title">Outlet</span>
+        <span className="App-title">Disponivel para retirada</span>
       </header>
       <div className="products-container">
         {products.map(product => (
