@@ -92,7 +92,7 @@ const App = () => {
   return (
     <div className="App">
       <header className="header-title-logo">
-        <a href="https://subleestore.lojavirtualnuvem.com.br/" target="_blank" className="App-logo">
+        <a href="https://subleestore.lojavirtualnuvem.com.br/" target="blank" className="App-logo">
           <img src={logo} alt="Logo" className="logo" />
         </a>
         <span className="App-title">Disponivel para retirada</span>
@@ -105,7 +105,7 @@ const App = () => {
               alt={product.name}
               className="product-image"
             />
-            <a href={product.link} target="blank">
+            <a href={product.link}>
               <span className="product-name">{product.name}</span>
             </a>
             <span className="product-price">{product.price}</span>
