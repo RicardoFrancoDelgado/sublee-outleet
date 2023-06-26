@@ -92,8 +92,10 @@ const App = () => {
   return (
     <div className="App">
       <header className="header-title-logo">
-        <img src={logo} alt="Logo" className="logo" />
-        <span className="App-title">Outlet</span>
+        <a href="https://subleestore.lojavirtualnuvem.com.br/" target="_blank" className="App-logo">
+          <img src={logo} alt="Logo" className="logo" />
+        </a>
+        <span className="App-title">Disponivel para retirada</span>
       </header>
       <div className="products-container">
         {products.map(product => (
