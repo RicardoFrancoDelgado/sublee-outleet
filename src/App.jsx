@@ -5,15 +5,14 @@ const products = [
   {
     id: 1,
     name: 'Produto 1',
-    price: 'R$45',
-    image:
-      'https://i.imgur.com/NZXqeOc.png',
-      link: 'https://www.subleestore.com/produtos/caneca-outlet-splash-areia-gaara/'
+    price: 'R$35',
+    image: 'https://i.imgur.com/NZXqeOc.png',
+    link: 'https://www.subleestore.com/produtos/caneca-outlet-splash-areia-gaara/'
   },
   {
     id: 2,
     name: 'Produto 2',
-    price: 'R$52',
+    price: 'R$45',
     image: 'https://i.imgur.com/eKK5w3t.png',
     link: 'https://www.subleestore.com/produtos/caneca-ceramica-padrinho-e-madrinha/'
   },
@@ -104,7 +103,7 @@ const App = () => {
               alt={product.name}
               className="product-image"
             />
-            <a href={product.link} target='blank'>
+            <a href={product.link} target="blank">
               <span className="product-name">{product.name}</span>
             </a>
             <span className="product-price">{product.price}</span>
