@@ -41,6 +41,8 @@ header {
   grid-gap: 20px;
   justify-items: center;
   margin-top: 20px;
+
+  cursor: pointer;
 }
 
 .product {
