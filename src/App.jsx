@@ -33,56 +33,56 @@ const products = [
   {
     id: 5,
     name: 'Produto 5',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 6,
     name: 'Produto 6',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 7,
     name: 'Produto 7',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 8,
     name: 'Produto 8',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 9,
     name: 'Produto 9',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 10,
     name: 'Produto 10',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 11,
     name: 'Produto 11',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   },
   {
     id: 12,
     name: 'Produto 12',
-    price: '$10',
+    price: ' ',
     image: 'https://i.imgur.com/RUmZ3EY.png',
     link: '#'
   }
